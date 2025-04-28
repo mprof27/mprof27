@@ -5,17 +5,20 @@ I'm a web developer passionate about building [your area of expertise].
 ## Tech Stack
 
 **Languages:**
-- [ ] HTML
-- [ ] CSS
+- [<i class="ci ci-python"></i>] Python
 - [ ] JavaScript
 - [ ] React
-- [ ] [Other front-end frameworks/libraries]
+- [ ] ThreeJS
+- [ ] Dart
+- [ ] ExpressJS
+- [ ] TypeScript
+- [ ] C#
+- [ ] C++
 
-**Frameworks:**
-- [ ] Node.js
-- [ ] [Other back-end frameworks/libraries]
-
-**Database:**
+**Frameworks & Libraries | Others:**
+- [ ] Django
+- [ ] HTML
+- [ ] CSS
 - [ ] MongoDB
 - [ ] PostgreSQL
 
