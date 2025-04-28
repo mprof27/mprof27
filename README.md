@@ -5,8 +5,8 @@ I'm a web developer passionate about building [your area of expertise].
 ## Tech Stack
 
 **Languages:**
-- [<i class="ci ci-python"></i>] Python
-- [ ] JavaScript
+- [[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)] Python
+- [[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)] JavaScript
 - [ ] React
 - [ ] ThreeJS
 - [ ] Dart
