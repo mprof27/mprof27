@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Mark, and welcome to my GitHub
 
-I'm a web developer passionate about building [your area of expertise].
+I'm a passionate front-end developer, game developer, and researcher with experience in the development and innovation of systems, devices, technologies, and methods
 
 ## Tech Stack
 
@@ -13,4 +13,4 @@ I'm a web developer passionate about building [your area of expertise].
 
 ## Projects [See more projects - link down below]
 
-- [www.amvcoder.com] - [Personal Portfolio]
+www.amvcoder.com - My personal portfolio
