@@ -4,10 +4,10 @@ I'm a passionate front-end developer, game developer, and researcher with experi
 
 ## Tech Stack
 
-####Languages
+#### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,js,react,threejs,dart,expressjs,typescript,c#,c++)](https://skillicons.dev)
 
-###Frameworks & Others
+### Frameworks & Others
 [![My Skills](https://skillicons.dev/icons?i=html,css,postgresql,mongodb,django,unity,blender)](https://skillicons.dev)
 
 
