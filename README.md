@@ -4,7 +4,7 @@ I'm a passionate front-end developer, game developer, and researcher with experi
 
 ## Tech Stack
 
-###Languages
+####Languages
 [![My Skills](https://skillicons.dev/icons?i=python,js,react,threejs,dart,expressjs,typescript,c#,c++)](https://skillicons.dev)
 
 ###Frameworks & Others
@@ -13,4 +13,4 @@ I'm a passionate front-end developer, game developer, and researcher with experi
 
 ## Projects [See more projects - link down below]
 
-www.amvcoder.com - My personal portfolio
+www.amvcoder.com - My portfolio
