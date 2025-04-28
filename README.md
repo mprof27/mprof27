@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 My name is Mark, and welcome to my GitHub
 
-<!--
-**mprof27/mprof27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer passionate about building [your area of expertise].
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
+- [ ] React
+- [ ] [Other front-end frameworks/libraries]
+
+**Frameworks:**
+- [ ] Node.js
+- [ ] [Other back-end frameworks/libraries]
+
+**Database:**
+- [ ] MongoDB
+- [ ] PostgreSQL
+
+**Other Tools:**
+- [ ] Git
+- [ ] Unity
+- [ ] Blender
+
+## Projects [See more projects - link down below]
+
+- [www.amvcoder.com] - [Personal Portfolio]
