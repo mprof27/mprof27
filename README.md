@@ -5,19 +5,11 @@ I'm a web developer passionate about building [your area of expertise].
 ## Tech Stack
 
 **Languages:**
-- [![My Skills](https://skillicons.dev/icons?i=python,js,react,threejs,dart,expressjs,typescript,c#,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,threejs,dart,expressjs,typescript,c#,c++)](https://skillicons.dev)
 
-**Frameworks & Libraries | Others:**
-- [ ] Django
-- [ ] HTML
-- [ ] CSS
-- [ ] MongoDB
-- [ ] PostgreSQL
+**Frameworks & Others:**
+[![My Skills](https://skillicons.dev/icons?i=html,css,PostgreSQL,django,unity,blender)](https://skillicons.dev)
 
-**Other Tools:**
-- [ ] Git
-- [ ] Unity
-- [ ] Blender
 
 ## Projects [See more projects - link down below]
 
