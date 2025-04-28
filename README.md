@@ -8,7 +8,7 @@ I'm a web developer passionate about building [your area of expertise].
 [![My Skills](https://skillicons.dev/icons?i=python,js,react,threejs,dart,expressjs,typescript,c#,c++)](https://skillicons.dev)
 
 **Frameworks & Others:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,PostgreSQL,django,unity,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,postgresql,mongodb,django,unity,blender)](https://skillicons.dev)
 
 
 ## Projects [See more projects - link down below]
