@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Mark, and welcome to my GitHub
 
-I'm a passionate front-end developer, game developer, and researcher with experience in the development and innovation of systems, devices, technologies, and methods
+I'm a passionate front-end developer, game developer, and researcher with experience in developing and innovating systems, devices, technologies, and methods.
 
 ## Tech Stack
 
