@@ -1,4 +1,4 @@
-# Hi Fellow < Developers/ >! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
+# Hello My Fellow < Developers/ >! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+a+Game+Developer;I'm+a+Software+Engineer)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@ I'm a passionate front-end developer, game developer, and researcher with experi
 * 💡 Open about freelancing opportunities in web and game development
 * 👯 I'm looking to collaborate on front-end/back-end software projects
 
-## Tech Stack [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&letterSpacing=1px&duration=7000&pause=1000&vCenter=true&random=true&width=435&lines=%3Ccoding...%2F%3E)](https://git.io/typing-svg)
+## Tech Stack [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&letterSpacing=1px&duration=7000&pause=1000&vCenter=true&random=true&width=200&height=20&lines=%3Ccoding...%2F%3E)](https://git.io/typing-svg)
 
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,js,react,threejs,dart,expressjs,typescript,c#,c++)](https://skillicons.dev)
