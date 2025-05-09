@@ -1,4 +1,6 @@
-# Hi there 👋 My name is Mark, and welcome to my GitHub
+# Hi Fellow < DEvelopers/ > !
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+a+Game+Developer;I'm+a+Software+Engineer)](https://git.io/typing-svg)
 
 I'm a passionate front-end developer, game developer, and researcher with experience in developing and innovating systems, devices, technologies, and methods.
 
