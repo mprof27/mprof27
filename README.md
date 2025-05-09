@@ -13,15 +13,15 @@ I'm a passionate front-end developer, game developer, and researcher with experi
 * 💡 Open about freelancing opportunities in web and game development
 * 👯 I'm looking to collaborate on front-end/back-end software projects
 
-## Tech Stack
+## Tech Stack [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=1px&duration=15000&pause=1000&random=true&width=435&lines=%3Ccoding...%2F%3E)](https://git.io/typing-svg)
 
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,js,react,threejs,dart,expressjs,typescript,c#,c++)](https://skillicons.dev)
 
-### Frameworks & Others
+#### Frameworks & Others
 [![My Skills](https://skillicons.dev/icons?i=html,css,postgresql,mongodb,django,unity,blender)](https://skillicons.dev)
 
 
-### To view my works, navigate to this link below.
+#### To view my works, navigate to this link below.
 
 [My Portfolio](https://portfolio.amvcoder.com/)
