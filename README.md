@@ -13,4 +13,4 @@ I'm a passionate front-end developer, game developer, and researcher with experi
 
 ## Projects [See more projects - link down below]
 
-www.amvcoder.com - My portfolio
+(https://portfolio.amvcoder.com/) - My portfolio
