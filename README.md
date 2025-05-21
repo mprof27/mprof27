@@ -18,7 +18,7 @@
 ## Tech Stack [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&letterSpacing=1px&duration=8000&pause=1000&vCenter=true&random=true&width=200&height=20&lines=%3Ccoding...%2F%3E)](https://git.io/typing-svg)
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,threejs,dart,expressjs,typescript,c#,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,threejs,dart,expressjs,typescript,cs,cpp)](https://skillicons.dev)
 
 ### Frameworks & Others
 [![My Skills](https://skillicons.dev/icons?i=html,css,postgresql,mongodb,django,unity,blender)](https://skillicons.dev)
